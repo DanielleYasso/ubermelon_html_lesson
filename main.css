@@ -90,15 +90,17 @@ li {
 }
 
 .text {
-    width: 320px;
+    width: 85%;
     min-height: 200px;
     font-size: 12px;
+    text-align: justify;
     margin: auto;
 
 }
 
 #footer {
     width: 100%;
+    padding: 5px 0 15px;
 }
 
 #footer ul {
