@@ -18,7 +18,6 @@ a:hover, a:active {
     background-color: #E6E6E6;
     width: 100%;
     min-height: 175px;
-
 }
 
 #content {
@@ -115,9 +114,15 @@ li {
 
 @media screen and (max-width: 500px) {
 
+    /* HEADER DIV */
+    #header {
+        min-height: 135px;
+    }
+
     /* TITLES */
     .head_title { 
         font-size: 60px;
+        margin-bottom: 5px;
     }
 
     /* TEXT */
